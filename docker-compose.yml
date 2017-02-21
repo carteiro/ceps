@@ -1,2 +1,5 @@
 test:
-  build: .
+  image: mhart/alpine-node:latest
+  volumes:
+    - .:/src/
+
