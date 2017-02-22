@@ -18,7 +18,7 @@ número de CEP inválido, nome de arquivos com possíveis erros ou problemas na
 estrutura do documento `JSON` descrito.
 
 Caso você saiba trabalhar com Git e possui uma conta no GitHub, por favor, tenha
-conhecimento da estrutura do repositório e crie um _patch request_ (PR) com suas
+conhecimento da estrutura do repositório e crie um _pull request_ (PR) com suas
 alterações.
 
 ## Estrutura do Repositório
@@ -58,7 +58,7 @@ armazenados nos atributos `tipo` e `estado` devem ser válidos e previamente
 reconhecíveis pelo projeto. Por fim, os atributos `logradouro`, `bairro` e
 `cidade` não devem ser vazios.
 
-## Patch Requests (PR)
+## Pull Requests (PR)
 
 Seguindo os padrões da estrutura do repositório, crie um _branch_ para alteração
 do código a partir do _branch_ `master`, que representa a última versão estável

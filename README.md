@@ -46,7 +46,7 @@ determinado CEP não exista na base de dados, o código HTTP de resposta será
 ## Contribuindo
 
 Você pode contribuir com este projeto, adicionando ou atualizando informações
-através de _Patch Requests_ (PRs). Caso esteja interessado, por favor, acesse o
+através de _Pull Requests_ (PRs). Caso esteja interessado, por favor, acesse o
 arquivo
 [`CONTRIBUTING.md`](https://github.com/carteiro/ceps/blob/master/CONTRIBUTING.md)
 para mais detalhes sobre o assunto.
